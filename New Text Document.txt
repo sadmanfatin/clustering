@@ -1,0 +1,4 @@
+http://192.168.200.110:9999/ImportBBLC2-ViewController-context-root/faces/SearchPG2
+http://192.168.200.110:7004/ImportBBLC2-ViewController-context-root/faces/SearchPG2
+http://192.168.200.110:7005/ImportBBLC2-ViewController-context-root/faces/SearchPG2
+http://192.168.200.110:7006/ImportBBLC2-ViewController-context-root/faces/SearchPG2
